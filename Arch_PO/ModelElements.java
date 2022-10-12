@@ -1,6 +1,6 @@
 package Arch_PO;
 public class ModelElements {
-    
+        
 }
 
 class PoligonalModel {
