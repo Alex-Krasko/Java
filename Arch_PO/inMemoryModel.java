@@ -13,7 +13,7 @@ class ModelStore {
     private IModelChangeObserver changeObservers;
 
     public Scene GetScene(int i) {
-        return Scene.i;
+        return Scenes;
     }
 
     public void NotifyChange(IModelChanger m) {
