@@ -16,6 +16,7 @@ public class Lesson11 {
             System.out.println("Некорректный ввод. Повторите попытку.");
             num = GetNum();
         } 
+        sc.close();
         return num;
     }
 }
